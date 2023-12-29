@@ -4,10 +4,6 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 from app_store_scraper import AppStore
-import pandas as pd
-import numpy as np
-import json
-import re
 import csv
 
 csvTitles = ['review', 'rating', 'sentiment']
