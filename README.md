@@ -9,4 +9,6 @@
 - Please don't forget to train your model regularly.
 - If you want to host this model on a API, please refer to this repo as sample [Host API](https://github.com/renatomateusx/Car_Purchase_Prediction_Amount)
 
-  
+# Preview (You can also find these information inside .ipynb file.)
+<img width="1232" alt="Screen Shot 2023-12-29 at 21 41 12" src="https://github.com/renatomateusx/99-app-sentiment-analysis-review/assets/4579323/f28f9408-e0b6-4e38-a2d7-e0dbcec7e05d">
+<img width="1232" alt="Screen Shot 2023-12-29 at 21 42 04" src="https://github.com/renatomateusx/99-app-sentiment-analysis-review/assets/4579323/1489af07-07b3-48ed-a029-f87bb4d06d39">
